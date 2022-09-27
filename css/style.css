@@ -31,31 +31,48 @@ header{
     font-size: 30px;
 }
 
-#contein-task{
+.contein{
+    width: 70%;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.task{
+    height: 50px;
+    margin: 50px auto;
+    line-height: 50px;
+}
+
+.corpo{
+    height:600px;
+    margin: -40px auto;
+}
+
+/* #contein-task{
     width: 70%;
     height: 50px;
     margin: 50px auto;
     background-color: white;
     line-height: 50px;
     border-radius: 5px;
-    ;
-}
+} */
 
 .allineamento{
     margin-left: 40px;
 }
 
-#button-task{
+.button{
     padding: 4px;
-    background-color: blue;
-    color: white;
     border-radius: 6px;
 }
 
-#button-section{
-    padding: 4px;
+.add-task{
+    background-color: blue;
+    color: white;
+}
+
+.section{
     border: solid 1px grey;
     color: grey;
-    border-radius: 6px;
 }
 
