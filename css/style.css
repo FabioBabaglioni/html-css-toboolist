@@ -8,11 +8,7 @@
 body{
     background-color: lightgrey;
 }
-#conteiner{
-    height: 100%;
-    width: auto;
-    background-color: lightgray;
-}
+
 
 /* impostazioni generali header */
 
@@ -23,13 +19,15 @@ header{
 }
 
 #logo{
-    margin-top: 20px;
-    margin-left: 20px;
+    height: 65px;
+    width: auto;
+    margin: auto;
+    line-height: 65px;
+    vertical-align: middle;
     
-
-
 }
 
 #logo-text{
     font-size: 30px;
 }
+
