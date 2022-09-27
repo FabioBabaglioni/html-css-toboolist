@@ -31,3 +31,31 @@ header{
     font-size: 30px;
 }
 
+#contein-task{
+    width: 70%;
+    height: 50px;
+    margin: 50px auto;
+    background-color: white;
+    line-height: 50px;
+    border-radius: 5px;
+    ;
+}
+
+.allineamento{
+    margin-left: 40px;
+}
+
+#button-task{
+    padding: 4px;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+}
+
+#button-section{
+    padding: 4px;
+    border: solid 1px grey;
+    color: grey;
+    border-radius: 6px;
+}
+
