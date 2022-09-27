@@ -2,5 +2,34 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: lightgrey;
+}
+#conteiner{
+    height: 100%;
+    width: auto;
+    background-color: lightgray;
+}
+
+/* impostazioni generali header */
+
+header{
+    height: 70px;
+    width: auto;
+    background-color: blue;
+}
+
+#logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+
+
+}
+
+#logo-text{
+    font-size: 30px;
+}
